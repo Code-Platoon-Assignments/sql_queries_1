@@ -1,6 +1,6 @@
 # SQL Queries: Selecting, Filtering, and Aggregating
 
-You are going to be answering some questions by writing queries against the  [cars database](https://github.com/echoplatoonew/cars_database).
+You are going to be answering some questions by writing queries against the  [cars database](https://github.com/Code-Platoon-Assignments/cars_database).
 
 
 - How many app users are there?
